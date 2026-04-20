@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-test02.txt user1 update 중
-=======
-test02.txt 수정 중....
->>>>>>> bc15a6725271906648086a5e763007462b15aee7
+test02.txt user2 두 번째 update
